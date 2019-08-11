@@ -1,0 +1,33 @@
+Funções:
+
+
+Soma de todos os elementos da árvore #Feito -
+
+Altura da árvore #Feito
+
+Níveis da árvore #Feito -
+
+Add #Feito -
+
+Remover #Feito -
+
+Buscar elemento #Feito -
+
+GetMax #Feito -
+
+GetMin #Feito -
+
+Antecessor #Feito -
+
+Sucessor #Feito -
+
+Total de elementos de um no (no caso, se não especificar o no, é da árvore) #Feito -
+
+Retornar nível do elemento #Feito -
+
+Elementos de cada nível #Em Progresso
+
+Balanceamento #Feito -
+
+
+
